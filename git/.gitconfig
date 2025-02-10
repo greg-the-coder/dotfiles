@@ -1,6 +1,6 @@
 [user]
-    name = Sean Walker
-    email = seanwalker@coder.com
+    name = greg-the-coder
+    email = greg@coder.com
 
 [core]
 	excludesfile = ~/.gitignore_global
